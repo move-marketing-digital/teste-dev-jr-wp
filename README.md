@@ -6,6 +6,7 @@ Nos interessamos muito pelo seu perfil e gostaríamos de por a prova seus conhec
 E aí, topa resolver um desafio massa e mostrar do que você é capaz? ;)
 
 ## O desafio é simples
+
 Desenvolver uma página inicial para um site institucional de um escritório de advocacia.
 
 ### E os requisitos?
@@ -15,10 +16,10 @@ Desenvolver uma página inicial para um site institucional de um escritório de 
 - Levar para seção de contato ao clicar no botão "Fale com um advogado"
 - Formulário de contato:
   - Todos os campos são obrigatórios
-  - O e-mail deve ser válido
-  - A mensagem final deve ser enviada para dev@movedigital.com.br
+  - O e-mail digitado deve ser válido
+  - A mensagem final deve ser enviada para `dev@movedigital.com.br`
 - Instalar o plugin WPVivid e nos fornecer o arquivo de backup
-- Fornecer os dados de usuário para aceso ao painel administrativo
+- Fornecer os dados de usuário para acesso ao painel administrativo
 
 #### O que seria um diferencial?
 
